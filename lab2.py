@@ -5,7 +5,7 @@
 # Question 1
 #============
 messy_menu = "    PizZA, burGER, SaLAd "
-#messy_menu = messy_menu.strip()
+messy_menu = messy_menu.strip()
 # Lowercase the entire string 
 messy_menu = messy_menu.lower()
 # Display 
